@@ -55,7 +55,7 @@ Boilerplate code to start off any project. Check <a href="#built-with">Built Wit
     If you are running windows use two terminals
     ```sh
     npm run start-server
-    npm run build-client-watch
+    npm run start-client
     ```
  5. Head over to [localhost:3000](http://localhost:3000)
 
